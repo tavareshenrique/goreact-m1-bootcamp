@@ -10,7 +10,7 @@ Install:
 
 ## Running
 
-With yarn:
+With npm:
 
     npm run dev
 
